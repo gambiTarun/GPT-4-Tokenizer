@@ -1,8 +1,8 @@
-# GPT-4 Tokenizer
+# LLM Tokenizer
 
 ## Overview
 
-The GPT-4 Tokenizer project implements a basic tokenizer for preprocessing text data for use with models like GPT-4. It includes a simple Byte Pair Encoding (BPE) algorithm for tokenization, which is essential for handling various languages and symbols in a compact and efficient manner. This tokenizer is designed to be a foundational tool for natural language processing (NLP) tasks, especially in the context of deep learning models.
+This project implements a basic tokenizer for preprocessing text data for use with models like GPT-4. It includes a simple Byte Pair Encoding (BPE) algorithm for tokenization, which is essential for handling various languages and symbols in a compact and efficient manner. This tokenizer is designed to be a foundational tool for natural language processing (NLP) tasks, especially in the context of Large Language Models.
 
 ## Features
 
