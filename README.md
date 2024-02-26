@@ -51,7 +51,7 @@ pytest -v .
 
 ## Contributing
 
-Contributions to the GPT-4 Tokenizer project are welcome. Please ensure to follow the code style and add unit tests for any new or changed functionality. Fork the repository and submit pull requests for review.
+Contributions to the LLM Tokenizer project are welcome. Please ensure to follow the code style and add unit tests for any new or changed functionality. Fork the repository and submit pull requests for review.
 
 ## License
 
